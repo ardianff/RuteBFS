@@ -1,0 +1,27 @@
+20, 24
+Jakarta
+Semarang
+Jakarta, Bekasi
+Bekasi, Depok
+Depok, Purwakarta
+Jakarta, Purwakarta
+Jakarta, Bogor
+Bogor, Sukabumi
+Purwakarta, Cirebon
+Purwakarta, Subang
+Sukabumi, Cianjur
+Cianjur, Cimahi
+Bandung, Purwokerto
+Purwokerto, Tasikmalaya
+Sumedang, Purwokerto
+Sumedang, Bandung
+Cirebon, Purwokerto
+Subang, Sumedang
+Subang, Bandung
+Purworejo, Yogyakarta
+Cimahi, Bandung
+Purworejo, Purwokerto
+Purworejo, Magelang
+Yogyakarta, Klaten
+Magelang, Ungaran
+Ungaran, Semarang
